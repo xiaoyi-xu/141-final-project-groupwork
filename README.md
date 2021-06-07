@@ -10,14 +10,23 @@ And in code, we will show what we have done in Python. And the name of each file
 3.1.py: using SQL query to check the mean value of numerical variables group by output
 
 3.2.py: using SQL query to check more details of numerical variables group by output
+
 3.3.py: using plotnine and matplotlib.pyplot to achieve interactive visualization
+
 3.4.py: using plotnine and matplotlib.pyplot to achieve interactive visualization
+
 4.1.py: using SQL query to check the mean value of numerical variables group by output and using plotnine and matplotlib.pyplot to achieve interactive visualization
+
 4.2.py: using SQL query to check the mean value of numerical variables group by output and using plotnine and matplotlib.pyplot to achieve interactive visualization
+
 5.1.py: using plotnine and matplotlib.pyplot to check the distribution of age
+
 5.2.py: using data munging and matplotlib.pyplot to achieve data grouping
+
 5.3.py: using data munging and matplotlib.pyplot to check the specific information in each age group
+
 5.4.py: using matplotlib.pyplot to achieve visualization horizontally and vertically
+
 6.py: using statsmodels.api to do the logistic regression and using matplotlib.pyplot to draw confusion matrix
 
 In data, we will put our data set and the sqlite file we use to storage data in it.
