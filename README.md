@@ -1,5 +1,5 @@
 # 141-final-project-groupwork
-## group member: Yunhao Yang, Jun Wei, Xiaoyi Xu
+## group members: Yunhao Yang, Jun Wei, Xiaoyi Xu
 
 In our project, we discovery the data set about heart attack  from the World Health Organization and we get this data set from Kaggle((https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)). In our project, you can find our final report in notebook and in the report we show the analysis of the data set through some methods achieve by Python.
 
