@@ -6,7 +6,9 @@ In our project, we discovery the data set about heart attack  from the World Hea
 And in code, we will show what we have done in Python. And the name of each file will respond to the code name we run in the notebook.
 
 2.py: using data munging method and plotnine to do preliminary research on data set
+
 3.1.py: using SQL query to check the mean value of numerical variables group by output
+
 3.2.py: using SQL query to check more details of numerical variables group by output
 3.3.py: using plotnine and matplotlib.pyplot to achieve interactive visualization
 3.4.py: using plotnine and matplotlib.pyplot to achieve interactive visualization
